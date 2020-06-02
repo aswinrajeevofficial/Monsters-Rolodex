@@ -16,8 +16,8 @@ Integrated the following concepts in React:
 
 Landing Page:  
 ![alt
-text](<https://github.com/aswinrajeevofficial/Monsters-Rolodex/blob/master/screens/dynamic_filtering.PNG?raw=true>)
-
-Dynamic Search:  
-![alt
 text](<https://github.com/aswinrajeevofficial/Monsters-Rolodex/blob/master/screens/homepage.PNG?raw=true>)
+
+Dynamic Filter:  
+![alt
+text](<https://github.com/aswinrajeevofficial/Monsters-Rolodex/blob/master/screens/dynamic_filtering.PNG?raw=true>)
