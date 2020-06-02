@@ -1,4 +1,4 @@
-Project created as part of the Complete React Developer Course 2020.
+**Project created as part of the Complete React Developer Course 2020.**
 
 Integrated the following concepts in React:
 
@@ -12,4 +12,12 @@ Integrated the following concepts in React:
 
 5.  Fetching data
 
-Screenshots Below:
+**Screenshots Below:**
+
+Landing Page:  
+![alt
+text](<https://github.com/aswinrajeevofficial/Monsters-Rolodex/blob/master/screens/dynamic_filtering.PNG?raw=true>)
+
+Dynamic Search:  
+![alt
+text](<https://github.com/aswinrajeevofficial/Monsters-Rolodex/blob/master/screens/homepage.PNG?raw=true>)
